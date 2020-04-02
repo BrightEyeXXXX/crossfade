@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">YourAppName</string>
+    <string name="description">Toko</string>
+    <string name="start">Start</string>
+    <string name="reverse">Reverse</string>
+    <string name="reset">Reset</string>
+</resources>
